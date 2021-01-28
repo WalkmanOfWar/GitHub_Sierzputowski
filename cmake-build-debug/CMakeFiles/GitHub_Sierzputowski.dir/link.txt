@@ -1,0 +1,3 @@
+C:\Users\acer\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\GitHub_Sierzputowski.dir/objects.a
+C:\Mingw\mingw64\bin\ar.exe cr CMakeFiles\GitHub_Sierzputowski.dir/objects.a @CMakeFiles\GitHub_Sierzputowski.dir\objects1.rsp
+C:\Mingw\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\GitHub_Sierzputowski.dir/objects.a -Wl,--no-whole-archive  -o GitHub_Sierzputowski.exe -Wl,--out-implib,libGitHub_Sierzputowski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GitHub_Sierzputowski.dir\linklibs.rsp
